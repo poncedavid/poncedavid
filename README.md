@@ -9,7 +9,7 @@ Habilidades: JAVA / mySQL / JS / HTML / CSS
 - 🔭 Estoy trabajando en coding dojo. 
 - 🌱 Estoy aprendiendo de la vida como desarrollador. 
 - 😄 Pronombres: Deivid 
-- ⚡ Dato curioso: Me gustan las bicicleta de piñón. fijo 
+- ⚡ Dato curioso: Me gustan las bicicleta de piñón fijo.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/poncedavid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/davidponcerivera/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_poncedavid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/davidpr__)  
