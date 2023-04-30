@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Soy David Ponce, un desarrollados apasionado por el front end 👨‍💻 estudiando las tecnologías de la información desde el año 2019  🚀</div>  
+### <div align="center">Soy David Ponce, un desarrollador apasionado por el front end 👨‍💻 estudiando las tecnologías de la información desde el año 2019  🚀</div>  
   
 
 - 🔭 Actualmente trabajando en [Coding Dojo Latam](https://github.com/rishavanand/github-profilinator) y co-fundador de [Clover Luck](www.cloverluck.cl).  
