@@ -119,4 +119,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">CLK Team es mi banda &#65039; - <a href="https://www.cloverluck.cl/" target="_blank">Clover Luck</a></div>
+<div align="center">CLK Team mi banda 💻 ✨ &#x2764; - <a href="https://www.davidponcerivera.cl/" target="_blank">David Ponce R.</a></div>
