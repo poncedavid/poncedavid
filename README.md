@@ -3,10 +3,10 @@
 </div>  
   
 
-<div align="center">Soy David Ponce, un desarrollador apasionado por el front end 👨‍💻 estudiando las tecnologías de la información desde el año 2019  🚀</div>  
+<div align="center">Soy Deivid Ponce Rivera, un desarrollador apasionado por el front end 👨‍💻 estudiando las tecnologías de la información desde el año 2019  🚀 </div>  
   
 
-- 🔭 Actualmente trabajando en [Coding Dojo Latam](https://github.com/rishavanand/github-profilinator) y co-fundador de [Clover Luck](www.cloverluck.cl).  
+- 🔭 Actualmente trabajando en [Coding Dojo Latam](https://codingdojo.com) y co-fundador de [Clover Luck](www.cloverluck.cl).  
   
 
 - 🌱 Estoy aprendiendo React y algo de Gestión ágil.  
@@ -119,4 +119,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">CLK Team mi banda 💻 ✨ &#x2764; - <a href="https://www.davidponcerivera.cl/" target="_blank">David Ponce R.</a></div>
+<div align="center">CLKTEAM mi banda 💻 🏴‍☠️ ✨ &#x2764; - <a href="https://www.davidponcerivera.cl/" target="_blank">David Ponce R.</a></div>
