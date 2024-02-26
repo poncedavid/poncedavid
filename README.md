@@ -8,7 +8,7 @@
 
 <br/>
 
-- 🔭 Actualmente trabajando en [Coding Dojo Latam](https://codingdojo.com) y co-fundador de [Clover Luck](https://www.cloverluck.cl).
+- 🔭 Actualmente trabajando en [Coding Dojo Latam](https://codingdojo.com).
 - 🌱 Aprendiendo React y Gestión ágil.
 - 🚲 Me desplazo por la ciudad en una bicicleta de piñón fijo.
 - ⚡ Dato curioso: ¡La fixie cambió mi vida! 😄
